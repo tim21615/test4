@@ -23,6 +23,8 @@ public class test4 {
 		System.out.println(123);
 		System.out.println(1111);
 		System.out.println("XXX");
+		System.out.println("56789");
+		
 		
 	}
 
