@@ -32,7 +32,7 @@ public class test4 {
 
 		System.out.println("XXX");
 		System.out.println("56789");
-		for 123
+
 		
 	}
 
