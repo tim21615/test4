@@ -22,11 +22,17 @@ public class test4 {
 //		}
 		System.out.println(123);
 		System.out.println(1111);
+
+		System.out.println("峰暴公司");
+		System.out.println("蔓週刊部門");
+		System.out.println("大家好");
+		System.out.println("峰暴公司");
+		System.out.println("蔓週刊部門");
+		System.out.println("大家好");
+
 		System.out.println("XXX");
 		System.out.println("56789");
-		System.out.println("test");
 		
-		System.out.println("hfjherfj");
 	}
 
 }
